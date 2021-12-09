@@ -1,0 +1,15 @@
+.header{
+ width:100%;   
+}
+.logo{
+    font-size:2rem;
+}
+.header ul{
+    list-style: none;
+    margin:0;
+    padding:0;
+}
+.header li{
+    margin-left:left 3rem;
+    
+}
